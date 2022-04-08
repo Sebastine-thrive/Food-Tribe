@@ -229,8 +229,8 @@ p {
 }
 
 .navbar-brand img{
-    width: 5.5em;
-    height: 4.5em;
+    width: 5em;
+    height: 4em;
     margin-top: 2px;
     margin-bottom: 3px;
     border-radius:6px;
@@ -548,6 +548,14 @@ Responsive Design===
         line-height: 2.0625rem;
     }
     
+    .navbar-brand img{
+    width: 3.5em;
+    height: 2.5em;
+    padding-bottom: 0;
+    margin-top: 1px;
+    margin-bottom: 0.05px;
+    border-radius:4px;
+}
      
     /* top banner */
     .top-banner{
